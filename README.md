@@ -6,14 +6,18 @@
 ## ⭐ API
 
 - **HRD-Net API** : 직업훈련 과정 조회
+- **사람인 API** : 채용정보 데이터 제공
 
 ## 📌 포함된 API 설명
 
 - **HRD-NET API** : https://hrd.work24.go.kr/hrdp/ap/papao/PAPAO0100D.do
+
   - HRDPOA60: 국민내일배움카드 훈련과정API
   - HRDPOA62: 사업주훈련 훈련과정API
   - HRDPOA68: 국가인적자원개발 컨소시엄 훈련과정API
   - HRDPOA69: 일학습병행 훈련과정API
+
+- **사람인 API** : https://oapi.saramin.co.kr/
 
 ## 📁 폴더 구조
 
